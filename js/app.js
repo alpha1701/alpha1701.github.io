@@ -15,33 +15,33 @@ particlesJS('particles-js',
   
   {
     "particles": {
-      number: {
-        value: 400,
-        density: {
-          enable: true,
-          value_area: 800
+      "number": {
+        "value": 80,
+        "density": {
+          "enable": true,
+          "value_area": 800
         }
       },
-      color: {
-        value: '#fff'
+      "color": {
+        "value": "#81ecec"
       },
-      shape: {
-        type: 'circle',
-        stroke: {
-          width: 0,
-          color: '#ff0000'
+      "shape": {
+        "type": "circle",
+        "stroke": {
+          "width": 0,
+          "color": "#000000"
         },
-        polygon: {
-          nb_sides: 5
+        "polygon": {
+          "nb_sides": 5
         },
         "image": {
-          "src": "images/Carousel_Placeholder.png",
+          "src": "img/github.svg",
           "width": 100,
           "height": 100
         }
       },
       "opacity": {
-        "value": 0.7,
+        "value": 0.6,
         "random": false,
         "anim": {
           "enable": false,
@@ -63,8 +63,8 @@ particlesJS('particles-js',
       "line_linked": {
         "enable": true,
         "distance": 150,
-        "color": "#0008FF",
-        "opacity": 1,
+        "color": "#ffffff",
+        "opacity": 0.4,
         "width": 1
       },
       "move": {
@@ -122,7 +122,7 @@ particlesJS('particles-js',
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
-      "background_color": "#fff",
+      "background_color": "#b61924",
       "background_image": "",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
