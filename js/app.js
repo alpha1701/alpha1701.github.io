@@ -15,24 +15,24 @@ particlesJS('particles-js',
   
   {
     "particles": {
-      "number": {
-        "value": 200,
-        "density": {
-          "enable": true,
-          "value_area": 800
+      number: {
+        value: 400,
+        density: {
+          enable: true,
+          value_area: 800
         }
       },
-      "color": {
-        "value": "#0008FF"
+      color: {
+        value: '#fff'
       },
-      "shape": {
-        "type": "circle",
-        "stroke": {
-          "width": 0,
-          "color": "#000000"
+      shape: {
+        type: 'circle',
+        stroke: {
+          width: 0,
+          color: '#ff0000'
         },
-        "polygon": {
-          "nb_sides": 5
+        polygon: {
+          nb_sides: 5
         },
         "image": {
           "src": "images/Carousel_Placeholder.png",
@@ -122,7 +122,7 @@ particlesJS('particles-js',
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
-      "background_color": "#b61924",
+      "background_color": "#fff",
       "background_image": "",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
